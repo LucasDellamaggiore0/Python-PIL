@@ -1,6 +1,6 @@
 # GESTIÓN DE SUPERMERCADO
 
-Script desarrollado con python, utilizando los conocimientos adquiridos hasta el momento en la capacitación del Programa de Inserción Laboral en Nuevas Tecnologías dictado por el Instituto Superior Politécnico Cordoba (ISPC)
+Script desarrollado con python, utilizando los conocimientos adquiridos hasta el momento en la capacitación del Programa de Inserción Laboral en Nuevas Tecnologías dictado por el Instituto Superior Politécnico Córdoba (ISPC)
 
 
 El script mencionado anteriormente, simula una gestión de supermercado, permitiendo al usuario cargar, visualizar, buscar entre los datos.
